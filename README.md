@@ -1,4 +1,4 @@
-# tarjetas de organicacion 
+# Tarjetas de organicacion 
 
 ejercicio de implementacion de componentes en react agregar elminar dinamicamente 
 
