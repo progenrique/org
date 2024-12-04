@@ -15,9 +15,7 @@ ejercicio de implementacion de componentes en react agregar elminar dinamicament
 - [x] implementacion de componentes 
 
 ## Captura de Pantalla
-![Captura del proyecto](ruta/a/tu/captura.png)
+![Captura del proyecto](public/capturaorg.png)
 
-## Instalación
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repo.git
+## Link de vercel
+https://org-1-seven.vercel.app/
